@@ -1,0 +1,2 @@
+# Text-Analysis-of-Resume
+Resume Text Analytics is often used by recruiters to understand the profile of applicants and filter applications. Recruiting for jobs has become a difficult task these days, with a large number of applicants for jobs. Human Resources executives often use various Text Processing and File reading tools to understand the resumes sent. Here, we work with a sample resume dataset, which contains resume text and resume category. We shall read the data, clean it and try to gain some insights from the data.
